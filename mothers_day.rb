@@ -4,6 +4,6 @@ def mothers_day(your_name)
   puts "Happy Mother's Day, #{our_name}!"
 end
 
-mothers_day
+mothers_day("Lacey")
 
 
